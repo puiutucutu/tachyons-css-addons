@@ -1,3 +1,9 @@
+/**
+
+  Textarea resizing
+
+ */
+
 .resize-horizontal {
   resize: horizontal;
 }
