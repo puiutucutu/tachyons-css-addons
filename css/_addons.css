@@ -1,12 +1,12 @@
 /* Forms & Inputs */
 
-.u-textarea-vertical-resize-only {
+.textarea-vertical-resize-only {
   resize: vertical;
 }
 
 /* Text Behaviour */
 
-.u-inherit-font-properties {
+.inherit-font-properties {
   font-size: inherit;
   font-weight: inherit;
   line-height: inherit;
@@ -14,25 +14,25 @@
 
 /* Positioning */
 
-.u-position-absolute-top-right {
+.position-absolute-top-right {
   position: absolute;
   top: 0;
   right: 0;
 }
 
-.u-position-absolute-top-left {
+.position-absolute-top-left {
   position: absolute;
   top: 0;
   left: 0;
 }
 
-.u-position-absolute-bottom-right {
+.position-absolute-bottom-right {
   position: absolute;
   bottom: 0;
   right: 0;
 }
 
-.u-position-absolute-bottom-left {
+.position-absolute-bottom-left {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -40,8 +40,7 @@
 
 /* Lists */
 
-.u-bulletless,
-.u-bulletless li {
+.bulletless,
+.bulletless li {
   list-style-type: none;
 }
-
