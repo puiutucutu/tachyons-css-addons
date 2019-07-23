@@ -1,0 +1,23 @@
+.mb1-not-last:not(:last-child) {
+  @extend .mb1;
+}
+
+.mb2-not-last:not(:last-child) {
+  @extend .mb2;
+}
+
+.mb3-not-last:not(:last-child) {
+  @extend .mb3;
+}
+
+.mb4-not-last:not(:last-child) {
+  @extend .mb4;
+}
+
+.mb5-not-last:not(:last-child) {
+  @extend .mb5;
+}
+
+.mb6-not-last:not(:last-child) {
+  @extend .mb6;
+}
